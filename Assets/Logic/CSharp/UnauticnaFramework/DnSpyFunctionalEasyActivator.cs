@@ -126,7 +126,6 @@ public class DnSpyFunctionalEasyActivator : MonoBehaviour
         ancent = sas16;
         ancent = Align.Auto;
         ancent = VFXCameraBufferTypes.Color;
-        ancent = CrashReporting.crashReportFolder;
         ancent = GameViewRenderMode.LeftEye;
 
     }
